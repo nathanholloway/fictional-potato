@@ -1,4 +1,4 @@
-export const isWds(string) => {
+function isWds(string) {
   return string === 'WDS';
 }
 
