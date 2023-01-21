@@ -1,0 +1,22 @@
+{
+  "name": "@nathanholloway/is-wds",
+  "version": "1.0.0",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanholloway/fictional-potato.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Web Dev Simplified",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanholloway/fictional-potato/issues"
+  },
+  "homepage": "https://github.com/nathanholloway/fictional-potato#readme"
+}
